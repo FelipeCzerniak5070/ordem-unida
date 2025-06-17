@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'audios/5 - Esquerda Volver.mp3',
         'audios/6 - Direita Volver.mp3',
         'audios/7 - Meia Volta Volver.mp3',
-        'audios/8 - Ombro.mp3',
+        'audios/8 - Ombro Arma.mp3',
         'audios/9 - Descansar Arma.mp3',
         'audios/10 - Apresentar Arma.mp3',
         'audios/11 - Ordinário Marche.mp3',
